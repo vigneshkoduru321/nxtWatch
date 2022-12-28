@@ -1,0 +1,21 @@
+.nav-logo {
+  height: 40px;
+}
+.nrml-button {
+  border-width: 0px;
+  background-color: transparent;
+}
+.mini {
+  font-size: 40px;
+  color: grey;
+}
+.profile {
+  height: 40px;
+}
+.logout-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 200px;
+}

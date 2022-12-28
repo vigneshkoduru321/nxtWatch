@@ -1,0 +1,31 @@
+.login-main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.label-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+.checkbox-con {
+  display: flex;
+  justify-content: flex-start;
+}
+.website-logo {
+  height: 60px;
+}
+.submit-button {
+  height: 30px;
+  width: 80px;
+  margin-left: 40px;
+}
+
+.error {
+  color: red;
+}
